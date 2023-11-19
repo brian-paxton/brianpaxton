@@ -1,5 +1,7 @@
 body {
     background-color: black;
+    text-align: center;
+    color: white;
 }
 
 h1 {
@@ -9,6 +11,9 @@ h1 {
 
 .header {
     font-family: 'DM Sans', sans-serif;
-    color: white;
-    text-align: center;
+}
+
+.title {
+    font-family: 'Stint Ultra Condensed', serif;
+    font-size: 40px;
 }
