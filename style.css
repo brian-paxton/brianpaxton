@@ -9,6 +9,12 @@ h1 {
    font-size: 3rem;
 }
 
+img {
+    float: left;
+    height: 500px;
+    padding: 20px;
+}
+
 .header {
     font-family: 'DM Sans', sans-serif;
 }
