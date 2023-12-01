@@ -33,3 +33,14 @@ img {
     margin-top: 50px;
     margin-bottom: 50px;
 }
+
+@media (max-width: 1024px) {
+    img {
+        float: none;
+        height: 400px;
+        width: 450px;
+        padding: 0px;
+        display: block;
+        margin: 0 auto;
+        }
+    } 
